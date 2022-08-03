@@ -1,0 +1,65 @@
+html {
+    
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+
+.header {
+    
+    color: #BB26FD;
+    font-weight: bold;
+    height: 70px;
+    font-size: 75px;
+    position: absolute;
+    bottom: 238px;
+    left: 0;
+    
+}
+.navbar {
+    display: flex;
+    justify-content:space-around;
+    background-color: #BB26FD;
+    height: 50px;
+    margin: auto;
+    /*
+    margin-left:98px;
+    margin-right: 50%; */
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+a:link { 
+    text-decoration: none; 
+    color: white;
+}
+
+
+a:visited { 
+    text-decoration: none; 
+    color: whitesmoke;
+}
+
+
+a:hover { 
+    text-decoration: none; 
+    color: lightgray;
+    
+}
+
+
+a:active {
+    text-decoration: none; 
+}
+
+body {
+    background-color: #F2DDFC;
+}
+
+#bio {
+  
+    
+    margin-left: 40%;
+    margin-right: 10%;
+    padding: 0 15px 0 15px;
+
+}
